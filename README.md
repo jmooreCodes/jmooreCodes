@@ -69,7 +69,7 @@ A solid foundation in coding principles, combined with hands-on experience in va
 I’m always eager to collaborate on meaningful projects and learn from fellow developers:
 
 - 💬 Ask me about **web development**, **algorithm design**, or writing clean, testable code
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/james-ngariu) or via email at **[your.email@example.com](mailto\:james28techy@gmail.com)**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/james-ngariu) or via email at **[Gmail](mailto\:james28techy@gmail.com)**
 
 ### ⚡ Fun Fact
 
